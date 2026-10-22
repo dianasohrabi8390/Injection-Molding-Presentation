@@ -93,7 +93,7 @@ Injection molding is widely used in:
 
 The original presentation is available in Persian and contains detailed explanations, diagrams, and technical discussions.
 
-[View or download the PowerPoint presentation](./Injection-Molding-Presentation.pptx)
+[View or download the PowerPoint presentation](./Injection-Molding-Presentation.pdf)
 
 ## 7. Contributors
 
